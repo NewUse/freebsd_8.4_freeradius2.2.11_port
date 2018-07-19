@@ -1,1 +1,2 @@
-# freebsd_8.4_freeradius2.2.11_port
+#FreeRADIUS 2.2.11 with FreeNIBS support
+#port for freebsd_8.4
